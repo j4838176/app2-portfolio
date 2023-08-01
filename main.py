@@ -15,3 +15,8 @@ with col2:
     I have worked with companies from various countries, such as the Center for Conservation Geography.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
